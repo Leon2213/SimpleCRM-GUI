@@ -1,3 +1,3 @@
 # SimpleCRM-JavaFX-GUI
 
-![img1](SimpleCRMImages/CRM1.png)
+![img1](SimpleCRM-JavaFX-GUI/SimpleCRMImages/CRM1.PNG)
