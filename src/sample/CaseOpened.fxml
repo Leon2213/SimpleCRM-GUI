@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="openCaseWindow" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="612.0" prefWidth="946.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.CaseOpenedController">
+   <children>
+      <TextArea fx:id="descriptionTextArea" layoutX="41.0" layoutY="85.0" prefHeight="136.0" prefWidth="517.0" />
+      <TextArea fx:id="commentsTextArea" editable="false" layoutX="42.0" layoutY="320.0" prefHeight="172.0" prefWidth="517.0" />
+      <Label layoutX="41.0" layoutY="68.0" text="Case description:" />
+      <Label layoutX="41.0" layoutY="303.0" text="Comments:" />
+      <Button fx:id="updateCase" layoutX="42.0" layoutY="234.0" mnemonicParsing="false" text="Update description" />
+      <Button fx:id="createNewComment" layoutX="45.0" layoutY="504.0" mnemonicParsing="false" onAction="#createNewCommentButton" text="Create new comment" />
+      <Button fx:id="exitOpenCase" layoutX="920.0" layoutY="2.0" mnemonicParsing="false" onAction="#exitButton" text="X" />
+      <Button fx:id="closeButton" layoutX="440.0" layoutY="504.0" mnemonicParsing="false" onAction="#closeButton" prefHeight="25.0" prefWidth="118.0" text="Close case" />
+      <Label layoutX="267.0" layoutY="19.0" text="STATUS: " />
+      <Label layoutX="45.0" layoutY="19.0" text="Case number: " />
+      <Label fx:id="caseNrPresenter" layoutX="45.0" layoutY="36.0" prefHeight="17.0" prefWidth="76.0" />
+      <Label fx:id="statusPresenter" layoutX="269.0" layoutY="36.0" prefHeight="17.0" prefWidth="77.0" />
+      <Button fx:id="openButton" layoutX="440.0" layoutY="544.0" mnemonicParsing="false" onAction="#openButton" prefHeight="25.0" prefWidth="118.0" text="Open case" />
+   </children>
+</AnchorPane>

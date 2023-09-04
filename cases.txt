@@ -1,0 +1,6 @@
+0;Closed;ORDER;Converted String: 2021-40-16 08:40:09;Blixten har slagit ner i datorn
+2021-40-16 08:40:09;user X;Användaren säger att hon har haft fel på sin dator länge2021-40-16 08:40:09;user X;Användaren ringer in igen och undrar hur det går2021-40-16 08:40:09;user X;Tekniker har åtgärdat felet. Bekräftas av användaren2021-40-16 08:40:55;user X;--Case was closed--2021-49-16 08:49:28;user X;asdasdasdasdasdasdasd1;Closed;HARDWARE_ERROR;Converted String: 2021-40-16 08:40:09;Fel på min dator
+2021-41-16 08:41:30;user X;Kunden ringer in och säger att datorn har börjat låta väldigt konstigt2021-42-16 08:42:00;user X;blalbalbablal2021-51-16 08:51:14;user X;--Case was closed--2;Closed;APPLICATION_SUPPORT;Converted String: 2021-40-16 08:40:09;Jag behöver hjälp med mitt system
+2021-51-16 08:51:26;user X;--Case was closed--3;Closed;APPLICATION_ERROR;Converted String: 2021-40-16 08:40:09;Mitt system fungerar inte
+2021-51-16 08:51:32;user X;--Case was closed--4;Closed;ORDER;Converted String: 2021-40-16 08:40:09;Vill beställa ett nytt tangentbord
+2021-51-16 08:51:37;user X;--Case was closed--
