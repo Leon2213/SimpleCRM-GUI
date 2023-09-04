@@ -1,5 +1,5 @@
-# A simple hobbyproject with the purpose of exploring JavaFX to create a GUI. 
-# Created a simple CRM system that saves data to a local file. 
+ A simple hobbyproject with the purpose of exploring JavaFX to create a GUI. 
+ Created a simple CRM system that saves data to a local file. 
 
 ![img1](SimpleCRMImages/CRM1.PNG)
 
